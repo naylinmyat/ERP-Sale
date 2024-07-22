@@ -22,7 +22,7 @@ You should download Node Version 20.3.0(LTS) or 20.15.1(LTS)
 If you download Node,you already get npm
 you can check in terminal `node -v` and `npm -v`
 
-###npm
+### npm
 
 1. Clone the repository: `git clone https://github.com/naylinmyat/ERP-Sale.git`
 2. Navigate to the project directory: `cd ERP-Sale`
