@@ -1,7 +1,7 @@
 ## ERP Sale Dashboard
 Shopping Cart App Template Design and Practice Javascript DOM(CRUD).
 
-[View Demo](http://naylin.me/Shopping-Cart/)
+[View Demo](https://erp-sale.vercel.app/)
 
 # About The Project
 
@@ -9,7 +9,7 @@ This app mainly shows the dashboard.This connect with other pages.
 
 ## Built With
 For the whole project, I used following languages.
-- [ReactJs](https://react.dev/)
+- [ReactJs](https://react.dev/): A declarative, efficient, and flexible JavaScript library for building user interfaces
 - [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework for rapidly building custom designs.
 - [Prettier](https://prettier.io/): A code formatter that ensures consistent code styles.
 
@@ -36,4 +36,4 @@ you can check in terminal `node -v` and `npm -v`
 
 **Linkedin** : [Linkedin](https://www.linkedin.com/in/nay-lin-myat-b60127224/)
 
-**Email** : [Linkedin](naylinmyat04@gmail.com)
+**Email** : naylinmyat04@gmail.com
